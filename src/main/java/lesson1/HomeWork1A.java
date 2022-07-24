@@ -5,5 +5,7 @@ public class HomeWork1A {
         System.out.println("Hello");
         System.out.println("Julia Starovska");
         System.out.println("Julia Starovska");
+        System.out.println("Julia Starovska");
+
     }
 }
